@@ -30,7 +30,7 @@ HAproxy должен балансировать только тот http-тра�
 
 ### Решение 2
 
-[haproxy конфиг2](https://github.com/garrkiss/disasterrecoverykepalived/blob/main/files/keepalived.conf)
+[haproxy конфиг2](https://github.com/garrkiss/cluster_and_balance/blob/main/files/haproxy2tasks.cfg)
 
 
-![Скрин](https://github.com/garrkiss/disasterrecoverykepalived/blob/main/img/2%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BE%20%D1%81%D0%BC%D0%B5%D0%BD%D1%8B%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0.JPG)
+![Скрин](https://github.com/garrkiss/cluster_and_balance/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2005.06.24_19.32.48.png)
